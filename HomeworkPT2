@@ -1,0 +1,21 @@
+namespace Homework1;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.Write("Enter the first number: ");
+        short a = Convert.ToInt16(Console.ReadLine());
+
+        Console.Write("Enter the second number");
+        short b = Convert.ToInt16(Console.ReadLine());
+
+        Console.Write("Enter the third number: ");
+        short c = Convert.ToInt16(Console.ReadLine());
+
+        short smallest;
+
+        
+    }
+}
+
